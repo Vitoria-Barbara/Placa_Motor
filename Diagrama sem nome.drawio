@@ -1,9 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2024-06-16T15:34:23.638Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.2.5" etag="ozc38kPg_Ab6WwsybyUl" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-16T21:30:19.372Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="8LFKDiQ2rWqrs-sRWmGT" version="24.2.5" type="github">
   <diagram name="Página-1" id="nMKooNfA9ZpDlacTlkCV">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="g6moP8p29k9odOodeAIv-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://blog.kimotor.com.br/wp-content/uploads/2020/06/Placa-Indentificacao-Motor-WEG-Full.jpg;" vertex="1" parent="1">
+          <mxGeometry y="440" width="700.75" height="442" as="geometry" />
+        </mxCell>
+        <mxCell id="g6moP8p29k9odOodeAIv-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#FF0000;strokeColor=#050505;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="470" as="sourcePoint" />
+            <mxPoint x="630" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g6moP8p29k9odOodeAIv-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="470" as="sourcePoint" />
+            <mxPoint x="715" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g6moP8p29k9odOodeAIv-8" value="número de série" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="380" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g6moP8p29k9odOodeAIv-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#FF0000;strokeColor=#050505;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="490" as="sourcePoint" />
+            <mxPoint x="350" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g6moP8p29k9odOodeAIv-10" value="&amp;nbsp;~ -&amp;gt; alimentação com AC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="370" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g6moP8p29k9odOodeAIv-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g6moP8p29k9odOodeAIv-11" target="g6moP8p29k9odOodeAIv-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g6moP8p29k9odOodeAIv-11" value="3 -&amp;gt; indicação da potência elétrica do motor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="310" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="g6moP8p29k9odOodeAIv-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#FF0000;strokeColor=#050505;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="480" as="sourcePoint" />
+            <mxPoint x="430" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g6moP8p29k9odOodeAIv-13" value="KW - Kilo Watts&lt;div&gt;HP - Horse Power&lt;/div&gt;&lt;div&gt;cv - Cavalo Vapor&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g6moP8p29k9odOodeAIv-15" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#FF0000;strokeColor=#050505;exitX=0.838;exitY=-0.009;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="569.9984999999999" y="476.02199999999993" as="sourcePoint" />
+            <mxPoint x="570" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g6moP8p29k9odOodeAIv-6" value="data de fabricação&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="370" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g6moP8p29k9odOodeAIv-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g6moP8p29k9odOodeAIv-16" target="g6moP8p29k9odOodeAIv-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g6moP8p29k9odOodeAIv-16" value="número da caracteristica mecanica do motor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="260" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="g6moP8p29k9odOodeAIv-17" value="distância da base tamanho, profundidade e etc" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
