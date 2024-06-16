@@ -1,4 +1,4 @@
-![placa.png](assets/images/placa.png).
+![placa.jpg](assets/images/placa.jpg).
 
 # Informações Gerais
 - Modelo (3132S): Indica o modelo do motor.
