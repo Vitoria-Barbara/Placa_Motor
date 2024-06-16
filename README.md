@@ -1,3 +1,5 @@
+![placa.png](assets/images/placa.png).
+
 # Informações Gerais
 - Modelo (3132S): Indica o modelo do motor.
 - Data de Fabricação (25MAR04): Data em que o motor foi fabricado.
